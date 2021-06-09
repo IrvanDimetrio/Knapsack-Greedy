@@ -12,6 +12,6 @@ Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus k
 
 ![image](https://user-images.githubusercontent.com/52452132/121369094-c477d680-c965-11eb-9b51-2bc559e33cd6.png)
 
-## Output 
+## Output Program
 
 ![image](https://user-images.githubusercontent.com/52452132/121342156-92597b00-c94b-11eb-91ee-e5b491f98564.png)
