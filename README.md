@@ -6,7 +6,7 @@ Berat/weight benda = {100, 50, 45, 20, 10, 5}
 
 Nilai kegunaan/values benda= {40, 35, 18, 4, 10, 2}
 
-Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus kita bawa/ambil dengan maksimal berat yang dapat dibawa oleh  cobntainer adalah 160
+Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus kita bawa/ambil dengan maksimal berat yang dapat dibawa oleh  container adalah 160
 
 ## Output 
 
