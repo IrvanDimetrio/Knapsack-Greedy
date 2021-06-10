@@ -14,4 +14,8 @@ Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus k
 
 ## Output Program
 
+### Bahasa Java
 ![image](https://user-images.githubusercontent.com/52452132/121342156-92597b00-c94b-11eb-91ee-e5b491f98564.png)
+
+### Bahasa Python
+![image](https://user-images.githubusercontent.com/52452132/121469126-2415c680-c9e6-11eb-9af6-1c0f3d8f9a8e.png)
